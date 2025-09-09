@@ -2,6 +2,11 @@
 
 Anonymous, intent-centric coordination demo. You can submit an intent without personal data; the UI hashes it locally, aggregates simple counts, and suggests when to coordinate.
 
+## Live Demo
+
+🌐 [Try it here](https://anonintent.netlify.app)
+
+
 ## Getting started
 
 ```bash
